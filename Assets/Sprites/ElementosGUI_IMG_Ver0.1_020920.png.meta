@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 08f413817f6c9f04d86e95166a98d3eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4159212779187911996
+    second: ElementosGUI_IMG_Ver0.1_020920_0
+  - first:
+      213: -296461420587849335
+    second: ElementosGUI_IMG_Ver0.1_020920_1
+  - first:
+      213: 5709917092891529740
+    second: ElementosGUI_IMG_Ver0.1_020920_2
+  - first:
+      213: -1070069749489916256
+    second: ElementosGUI_IMG_Ver0.1_020920_3
+  - first:
+      213: 1025506093075760911
+    second: ElementosGUI_IMG_Ver0.1_020920_4
+  - first:
+      213: -8630490925107881039
+    second: ElementosGUI_IMG_Ver0.1_020920_5
+  - first:
+      213: 2368748976655953526
+    second: ElementosGUI_IMG_Ver0.1_020920_6
+  - first:
+      213: 7528769107249610540
+    second: ElementosGUI_IMG_Ver0.1_020920_7
+  - first:
+      213: -5272806262449953520
+    second: ElementosGUI_IMG_Ver0.1_020920_8
+  - first:
+      213: -8598149142069059702
+    second: ElementosGUI_IMG_Ver0.1_020920_9
+  - first:
+      213: -5186837024285626225
+    second: ElementosGUI_IMG_Ver0.1_020920_10
+  - first:
+      213: -2059566260631673881
+    second: ElementosGUI_IMG_Ver0.1_020920_11
+  - first:
+      213: -6530707225562004078
+    second: ElementosGUI_IMG_Ver0.1_020920_12
+  - first:
+      213: 8854859553826691932
+    second: ElementosGUI_IMG_Ver0.1_020920_13
+  - first:
+      213: -6190960827326315227
+    second: ElementosGUI_IMG_Ver0.1_020920_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 860
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd37fc816fb29d4a906b11a3cf374c1
+      internalID: 4159212779187911996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 960
+        width: 170
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1067fde6ff5cd3d4096da48e40d03f0c
+      internalID: -296461420587849335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 841
+        width: 612
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0c3d56bdbc38f47a83c4c116f32448
+      internalID: 5709917092891529740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 826
+        width: 245
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46fc99b56a8fd449f1a3ca9aa1f39e
+      internalID: -1070069749489916256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_4
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 704
+        width: 411
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4daf9a30aeac6c46b0eacb3d7e5782e
+      internalID: 1025506093075760911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_5
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 552
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407b450e55b8cc40bc259f9e649ae44
+      internalID: -8630490925107881039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 571
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729289c9bab0834baba0014289c7602
+      internalID: 2368748976655953526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_7
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 554
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9775b9400837c488d38e87541159a6
+      internalID: 7528769107249610540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_8
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 538
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9183a4b6d980c4eb62dca01c632a6b
+      internalID: -5272806262449953520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_9
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 555
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450acef1506cc643a59c7a44b8c21f0
+      internalID: -8598149142069059702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 430
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f545f36343b6a243a94c75a00dc6e9a
+      internalID: -5186837024285626225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_11
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 449
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e349efbfaa744d4ab92c418a1add66e
+      internalID: -2059566260631673881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_12
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 432
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769944dc81449384eb4d98c84e4920c9
+      internalID: -6530707225562004078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_13
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 416
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790964e495d39640bd5a95fb9ec7cf5
+      internalID: 8854859553826691932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementosGUI_IMG_Ver0.1_020920_14
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 433
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d17a5661f67f468e76fbfa79904a3
+      internalID: -6190960827326315227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+
+
+public static float  reloj = 0;
+private string sceneToChange;
+public static GameObject objeto;
+
+void Update (){
+    reloj -= Time.deltaTime;
+    if(reloj <= 0 ){
+        objeto.setActive = false;
+        Application.LoadLevel(sceneToChange);
+    }
+} 
